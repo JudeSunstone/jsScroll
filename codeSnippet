@@ -1,0 +1,1 @@
+document.documentElement.scrolltop = 0; //возвращает на начало страниц
